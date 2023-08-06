@@ -1,0 +1,68 @@
+html{
+    background-color: rgb(30, 112, 85);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Titulo{
+    text-align: center;
+    font-size: 50px;
+    padding: 400px 20px;
+    
+}
+
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: rgb(24, 59, 24);
+    padding: 15px 50px 10px 0;
+    text-align: right;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding: 15px 50px 10px 0;
+}
+
+.Sobre-mi{
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+h2#sobre{
+    padding-bottom: 20px;
+    color: white;
+}
+
+img#fotomia{
+    height: 200px;
+    width: 200px;
+}
+
+.contacto ul li{
+    vertical-align: middle;
+    display: table;
+    text-decoration: none;
+    float: left;
+    padding: 0 200px 0 200px;
+}
+
+.contacto a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background-color: rgb(24, 59, 24);
+}
+
+.contacto{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
